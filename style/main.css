@@ -27,6 +27,7 @@ main {
     background-color: hsl(270, 20%, 96%);
     width: 17rem;
     height: 35rem;
+    padding-bottom: 1rem;
     border: 10px solid #FFF;
     border-radius: 2rem;
     position: relative;
