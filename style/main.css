@@ -184,8 +184,8 @@ main {
 
 .input-field {
     padding: 1rem;
-    margin-top: 1rem;
-    margin-left: 5%;
+    margin-block: 1rem;
+    margin-inline: auto;
     width: 90%;
     height: 2.5rem;
     border-radius: 3rem;
